@@ -1,0 +1,16 @@
+H:\RiderProjects\Test2.Server\Test2.Server\bin\Release\net5.0\Test2.Server.exe
+H:\RiderProjects\Test2.Server\Test2.Server\bin\Release\net5.0\Test2.Server.deps.json
+H:\RiderProjects\Test2.Server\Test2.Server\bin\Release\net5.0\Test2.Server.runtimeconfig.json
+H:\RiderProjects\Test2.Server\Test2.Server\bin\Release\net5.0\Test2.Server.runtimeconfig.dev.json
+H:\RiderProjects\Test2.Server\Test2.Server\bin\Release\net5.0\Test2.Server.dll
+H:\RiderProjects\Test2.Server\Test2.Server\bin\Release\net5.0\ref\Test2.Server.dll
+H:\RiderProjects\Test2.Server\Test2.Server\bin\Release\net5.0\Test2.Server.pdb
+H:\RiderProjects\Test2.Server\Test2.Server\obj\Release\net5.0\Test2.Server.csprojAssemblyReference.cache
+H:\RiderProjects\Test2.Server\Test2.Server\obj\Release\net5.0\Test2.Server.GeneratedMSBuildEditorConfig.editorconfig
+H:\RiderProjects\Test2.Server\Test2.Server\obj\Release\net5.0\Test2.Server.AssemblyInfoInputs.cache
+H:\RiderProjects\Test2.Server\Test2.Server\obj\Release\net5.0\Test2.Server.AssemblyInfo.cs
+H:\RiderProjects\Test2.Server\Test2.Server\obj\Release\net5.0\Test2.Server.csproj.CoreCompileInputs.cache
+H:\RiderProjects\Test2.Server\Test2.Server\obj\Release\net5.0\Test2.Server.dll
+H:\RiderProjects\Test2.Server\Test2.Server\obj\Release\net5.0\ref\Test2.Server.dll
+H:\RiderProjects\Test2.Server\Test2.Server\obj\Release\net5.0\Test2.Server.pdb
+H:\RiderProjects\Test2.Server\Test2.Server\obj\Release\net5.0\Test2.Server.genruntimeconfig.cache
