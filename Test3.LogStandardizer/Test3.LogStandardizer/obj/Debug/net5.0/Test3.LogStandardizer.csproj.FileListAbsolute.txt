@@ -1,0 +1,16 @@
+H:\RiderProjects\Test3.LogStandardizer\Test3.LogStandardizer\bin\Debug\net5.0\Test3.LogStandardizer.exe
+H:\RiderProjects\Test3.LogStandardizer\Test3.LogStandardizer\bin\Debug\net5.0\Test3.LogStandardizer.deps.json
+H:\RiderProjects\Test3.LogStandardizer\Test3.LogStandardizer\bin\Debug\net5.0\Test3.LogStandardizer.runtimeconfig.json
+H:\RiderProjects\Test3.LogStandardizer\Test3.LogStandardizer\bin\Debug\net5.0\Test3.LogStandardizer.runtimeconfig.dev.json
+H:\RiderProjects\Test3.LogStandardizer\Test3.LogStandardizer\bin\Debug\net5.0\Test3.LogStandardizer.dll
+H:\RiderProjects\Test3.LogStandardizer\Test3.LogStandardizer\bin\Debug\net5.0\ref\Test3.LogStandardizer.dll
+H:\RiderProjects\Test3.LogStandardizer\Test3.LogStandardizer\bin\Debug\net5.0\Test3.LogStandardizer.pdb
+H:\RiderProjects\Test3.LogStandardizer\Test3.LogStandardizer\obj\Debug\net5.0\Test3.LogStandardizer.csprojAssemblyReference.cache
+H:\RiderProjects\Test3.LogStandardizer\Test3.LogStandardizer\obj\Debug\net5.0\Test3.LogStandardizer.GeneratedMSBuildEditorConfig.editorconfig
+H:\RiderProjects\Test3.LogStandardizer\Test3.LogStandardizer\obj\Debug\net5.0\Test3.LogStandardizer.AssemblyInfoInputs.cache
+H:\RiderProjects\Test3.LogStandardizer\Test3.LogStandardizer\obj\Debug\net5.0\Test3.LogStandardizer.AssemblyInfo.cs
+H:\RiderProjects\Test3.LogStandardizer\Test3.LogStandardizer\obj\Debug\net5.0\Test3.LogStandardizer.csproj.CoreCompileInputs.cache
+H:\RiderProjects\Test3.LogStandardizer\Test3.LogStandardizer\obj\Debug\net5.0\Test3.LogStandardizer.dll
+H:\RiderProjects\Test3.LogStandardizer\Test3.LogStandardizer\obj\Debug\net5.0\ref\Test3.LogStandardizer.dll
+H:\RiderProjects\Test3.LogStandardizer\Test3.LogStandardizer\obj\Debug\net5.0\Test3.LogStandardizer.pdb
+H:\RiderProjects\Test3.LogStandardizer\Test3.LogStandardizer\obj\Debug\net5.0\Test3.LogStandardizer.genruntimeconfig.cache

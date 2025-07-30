@@ -1,0 +1,1 @@
+2024-07-10 15:14:51.1337| WARN|11|MobileComputer.GetVideoFeed| Код устройства: '@TERMINATOR-SV0-D-410244015546'
