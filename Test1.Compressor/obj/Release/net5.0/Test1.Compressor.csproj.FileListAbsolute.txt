@@ -1,0 +1,16 @@
+H:\RiderProjects\Test1.Compressor\Test1.Compressor\bin\Release\net5.0\Test1.Compressor.exe
+H:\RiderProjects\Test1.Compressor\Test1.Compressor\bin\Release\net5.0\Test1.Compressor.deps.json
+H:\RiderProjects\Test1.Compressor\Test1.Compressor\bin\Release\net5.0\Test1.Compressor.runtimeconfig.json
+H:\RiderProjects\Test1.Compressor\Test1.Compressor\bin\Release\net5.0\Test1.Compressor.runtimeconfig.dev.json
+H:\RiderProjects\Test1.Compressor\Test1.Compressor\bin\Release\net5.0\Test1.Compressor.dll
+H:\RiderProjects\Test1.Compressor\Test1.Compressor\bin\Release\net5.0\ref\Test1.Compressor.dll
+H:\RiderProjects\Test1.Compressor\Test1.Compressor\bin\Release\net5.0\Test1.Compressor.pdb
+H:\RiderProjects\Test1.Compressor\Test1.Compressor\obj\Release\net5.0\Test1.Compressor.csprojAssemblyReference.cache
+H:\RiderProjects\Test1.Compressor\Test1.Compressor\obj\Release\net5.0\Test1.Compressor.GeneratedMSBuildEditorConfig.editorconfig
+H:\RiderProjects\Test1.Compressor\Test1.Compressor\obj\Release\net5.0\Test1.Compressor.AssemblyInfoInputs.cache
+H:\RiderProjects\Test1.Compressor\Test1.Compressor\obj\Release\net5.0\Test1.Compressor.AssemblyInfo.cs
+H:\RiderProjects\Test1.Compressor\Test1.Compressor\obj\Release\net5.0\Test1.Compressor.csproj.CoreCompileInputs.cache
+H:\RiderProjects\Test1.Compressor\Test1.Compressor\obj\Release\net5.0\Test1.Compressor.dll
+H:\RiderProjects\Test1.Compressor\Test1.Compressor\obj\Release\net5.0\ref\Test1.Compressor.dll
+H:\RiderProjects\Test1.Compressor\Test1.Compressor\obj\Release\net5.0\Test1.Compressor.pdb
+H:\RiderProjects\Test1.Compressor\Test1.Compressor\obj\Release\net5.0\Test1.Compressor.genruntimeconfig.cache
