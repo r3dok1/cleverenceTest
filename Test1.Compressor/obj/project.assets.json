@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\RiderProjects\\Test1.Compressor\\Test1.Compressor\\Test1.Compressor.csproj",
+      "projectUniqueName": "H:\\RiderProjects\\CleverenceTest\\Test1.Compressor\\Test1.Compressor.csproj",
       "projectName": "Test1.Compressor",
-      "projectPath": "H:\\RiderProjects\\Test1.Compressor\\Test1.Compressor\\Test1.Compressor.csproj",
+      "projectPath": "H:\\RiderProjects\\CleverenceTest\\Test1.Compressor\\Test1.Compressor.csproj",
       "packagesPath": "C:\\Users\\r3dok\\.nuget\\packages\\",
-      "outputPath": "H:\\RiderProjects\\Test1.Compressor\\Test1.Compressor\\obj\\",
+      "outputPath": "H:\\RiderProjects\\CleverenceTest\\Test1.Compressor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\r3dok\\AppData\\Roaming\\NuGet\\NuGet.Config"
